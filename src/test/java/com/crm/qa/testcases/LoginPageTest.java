@@ -45,7 +45,7 @@ public class LoginPageTest extends TestBase {
 	//	String title = loginPage.validateLoginPageTitle();
 	//	Assert.assertEquals(title, "Free CRM #1 cloud software for any business large or small");
 	
-	loginPage.login(fname, lname, mn);
+//	loginPage.login(fname, lname, mn);
 	
 	}
 	

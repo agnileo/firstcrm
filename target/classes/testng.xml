@@ -1,0 +1,7 @@
+<suite name="softwaretestingmaterial">
+ 	<test name="Free CRM App testcases ">
+ 		<classes>
+		 	<class name="com.crm.qa.testcases.LoginPageTest"/>
+ 		</classes>
+	 </test>
+</suite>

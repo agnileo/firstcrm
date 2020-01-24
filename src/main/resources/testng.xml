@@ -1,6 +1,12 @@
 <suite name="softwaretestingmaterial">
  	<test name="Free CRM App testcases ">
+ 		<groups>
+ 		<run>
+ 		<include name = "strong ties"/>
+ 		</run>
+ 		</groups>
  		<classes>
+ 		
 		 	<class name="com.crm.qa.testcases.LoginPageTest"/>
  		</classes>
 	 </test>

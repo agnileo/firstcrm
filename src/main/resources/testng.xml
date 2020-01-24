@@ -1,5 +1,5 @@
 <suite name="softwaretestingmaterial">
- 	<test name="Free CRM App testcases ">
+ 	<test name="Free CRM App testcases " parallel = "methods">
  		<groups>
  		<run>
  		<include name = "strong ties"/>
